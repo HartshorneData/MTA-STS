@@ -2,4 +2,4 @@ version: STSv1
 mode: enforce
 mx: hartshorne-derbyshire-sch-uk.mail.protection.outlook.com
 mx: mx.exa-networks.co.uk
-max_age: 604800
+max_age: 2419200
